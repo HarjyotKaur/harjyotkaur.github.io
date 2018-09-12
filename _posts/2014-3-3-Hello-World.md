@@ -4,6 +4,7 @@ title: Normal Distribution
 ---
 
 Will update the blog post tomorrow
+Harjyot's birthday is on FRIYAY!!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
