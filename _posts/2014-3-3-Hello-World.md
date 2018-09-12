@@ -3,7 +3,7 @@ layout: post
 title: Normal Distribution
 ---
 
-Will update the blog post tomorrow
+Will update the blog post tomorrow!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
