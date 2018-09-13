@@ -3,8 +3,7 @@ layout: post
 title: Normal Distribution
 ---
 
-Will update the blog post tomorrow
-Harjyot's birthday is on FRIYAY!!
+Will update the blog post tomorrow!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
