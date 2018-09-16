@@ -8,7 +8,7 @@ Every thing we can possibly think about can be accompanied with an observation. 
 
 For instance, the mean age of a cohort of students studying Data Science in UBC is 27. When a random sample of 35 students was selected, their average age was 25. Try comparing the information given about the population and sample. We can make the following observations.
 
-![A test image](imgs/sampling.jpg)
+![](imgs/sampling.jpg)
 Image Source <a href="https://nces.ed.gov/blogs/nces/post/statistical-concepts-in-brief-how-and-why-does-nces-use-sample-surveys">nces.ed.gov</a>
 
 
